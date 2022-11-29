@@ -1,7 +1,4 @@
 # portfolio
-This is my  first website.
-I used HTML
+using HTML
 AND 
 CSS language
-to built this website.
-thank you all.
